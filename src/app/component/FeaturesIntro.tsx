@@ -21,7 +21,7 @@ const FeaturesIntro = () => {
                     {/* Phone */}
                     <div className="p-5 shadow-md shadow-cyan-600 w-[20rem] flex justify-center items-center flex-col border border-gray-700 bg-gray-800 hover:bg-gray-800 -mt-10 mb-6 rounded-md">
                         <PhoneIcon />
-                        <p className="text-center my-5">Capture customer's phone number</p>
+                        <p className="text-center my-5">Capture customer phone number</p>
                     </div>
                     {/* Menu */}
                     <div className="p-5 w-[20rem] flex justify-center items-center flex-col border border-gray-700 hover:bg-gray-800">
