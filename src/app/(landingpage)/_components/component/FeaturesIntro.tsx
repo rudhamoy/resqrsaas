@@ -20,7 +20,7 @@ const FeaturesIntro = () => {
                         <div className="sm:w-[40%]">
                             <span className="uppercase text-blue-400 text-xs">build reputation</span>
                             <p className="text-3xl my-6 text-gray-200">Get More Customer Reviews</p>
-                            <p className=""> In today&apos;s crowded marketplace, differentiation is key. With our solution, you'll distinguish your business from competitors by showcasing your stellar reputation and glowing customer feedback.
+                            <p className=""> In today&apos;s crowded marketplace, differentiation is key. With our solution, you&apos;ll distinguish your business from competitors by showcasing your stellar reputation and glowing customer feedback.
                             </p>
 
                             <button className="bg-blue-400 p-2 sm:p-3 px-6 rounded-full text-sm text-blue-100 my-10">Read More</button>
