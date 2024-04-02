@@ -10,7 +10,7 @@ const Action = () => {
         <p className='text-gray-400 text-center'>Join us today and sit tight while we help your business on growing reach, revenues and sales</p>
         <div className='flex justify-center gap-7 my-5'>
         <button className='bg-gray-200 text-gray-600 p-2 px-5 rounded-2xl text-sm'>Contact us</button>
-        <button onClick={() => router.push("/demo")} className='bg-blue-400 p-2 sm:p-3 px-5 rounded-2xl text-blue-100 text-sm'>Try Demo</button>
+        <button onClick={() => router.push("/")} className='bg-blue-400 p-2 sm:p-3 px-5 rounded-2xl text-blue-100 text-sm'>Try Demo</button>
         </div>
     </div>
   )
