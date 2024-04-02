@@ -6,7 +6,7 @@ function GrowthIcon(props: React.SVGProps<SVGSVGElement>) {
       viewBox="0 0 24 24"
       fill="currentColor"
       // height="200px"
-      width="10em"
+      width="6em"
       {...props}
       className="text-white"
     >
