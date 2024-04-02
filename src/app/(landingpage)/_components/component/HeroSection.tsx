@@ -10,7 +10,7 @@ const HeroSection = () => {
     <div className="flex justify-center items-center flex-col h-[60vh] sm:h-[85vh] bg-gray-900 relative">
       <div className="flex justify-center flex-col items-center gap-y-10 text-center">
         <h1 className="text-gray-100 text-4xl sm:text-7xl font-semibold">Turn Reviews into Revenue</h1>
-        <h2 className="text-gray-200 mx-5">"And get more customers with Local SEO"</h2>
+        <h2 className="text-gray-200 mx-5">&quot;And get more customers with Local SEO&quot;</h2>
       </div>
 
       <div className="flex gap-x-8 items-center my-10">

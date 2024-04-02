@@ -20,7 +20,7 @@ const FeaturesIntro = () => {
                         <div className="sm:w-[40%]">
                             <span className="uppercase text-blue-400 text-xs">build reputation</span>
                             <p className="text-3xl my-6 text-gray-200">Get More Customer Reviews</p>
-                            <p className=""> In today's crowded marketplace, differentiation is key. With our solution, you'll distinguish your business from competitors by showcasing your stellar reputation and glowing customer feedback.
+                            <p className=""> In today&apos;s crowded marketplace, differentiation is key. With our solution, you'll distinguish your business from competitors by showcasing your stellar reputation and glowing customer feedback.
                             </p>
 
                             <button className="bg-blue-400 p-2 sm:p-3 px-6 rounded-full text-sm text-blue-100 my-10">Read More</button>
@@ -39,7 +39,7 @@ const FeaturesIntro = () => {
                         <div className="sm:w-[40%]">
                             <span className="uppercase text-blue-400 text-xs">Google rankings</span>
                             <p className="text-3xl my-6 text-gray-200">Boost Your Google Business Ranking</p>
-                            <p className=""> Rise to the top of search results! With our system driving reviews directly to your Google Business profile, you'll enhance your visibility and climb the ranks in local search listings
+                            <p className=""> Rise to the top of search results! With our system driving reviews directly to your Google Business profile, you&apos;ll enhance your visibility and climb the ranks in local search listings
                             </p>
                             <button className="bg-blue-400 p-2 sm:p-3 px-6 rounded-full text-sm text-blue-100 my-10">Read More</button>
                         </div>
@@ -51,7 +51,7 @@ const FeaturesIntro = () => {
                         <div className="sm:w-[40%]">
                             <span className="uppercase text-blue-400 text-xs">Analytics</span>
                             <p className="text-3xl my-6 text-gray-200">Harness Customer Insights for Strategic Growth</p>
-                            <p className=""> Unlock the power of data! With our system, you'll build a comprehensive database of customer interactions and behaviors, enabling you to gain valuable insights into your audience's preferences, purchasing habits, and satisfaction levels.
+                            <p className=""> Unlock the power of data! With our system, you&apos;ll build a comprehensive database of customer interactions and behaviors, enabling you to gain valuable insights into your audience&apos;s preferences, purchasing habits, and satisfaction levels.
                             </p>
                             <button className="bg-blue-400 p-2 sm:p-3 px-6 rounded-full text-sm text-blue-100 my-10">Read More</button>
                         </div>
